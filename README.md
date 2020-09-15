@@ -16,7 +16,7 @@ column in “train.csv” is your dependent variable.)
 # data 
 The train.csv contains the following columns:
 
-**index - an identifier for the review
+####  index - an identifier for the review
 **beer/ABV - the alcohol by volume of the beer
 *beer/beerId - a unique ID indicating the beer reviewed
 *beer/brewerId - a unique ID indicating the brewery
